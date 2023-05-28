@@ -1,0 +1,15 @@
+site_name: Moja strona
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'light green'
+    accent: 'blue'
+  
+  markdown_extensions:
+    - attr_list
+    - md_in_html 
+    - tables
+    
+plugins:
+  - glightbox
