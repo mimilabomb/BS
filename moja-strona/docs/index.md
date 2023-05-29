@@ -1,5 +1,5 @@
 # Schronisko w Czarnym Lesie
-![Nasz Ośrodek](https://img.freepik.com/darmowe-zdjecie/piekne-ujecie-ogrodzenia-prowadzacego-do-domu-w-zielonej-trawie_181624-18255.jpg?w=1380&t=st=1685273636~exp=1685274236~hmac=270deb44e2e0946665cbc75f6750356f5717107a70caf733a4241c668de2cb02){ loading=lazy }
+![Nasz Ośrodek](https://img.freepik.com/darmowe-zdjecie/piekne-ujecie-ogrodzenia-prowadzacego-do-domu-w-zielonej-trawie_181624-18255.jpg?w=1380&t=st=1685273636~exp=1685274236~hmac=270deb44e2e0946665cbc75f6750356f5717107a70caf733a4241c668de2cb02)
 
 # Witajcie w naszym nowym schronisku dla zwierząt!
 
