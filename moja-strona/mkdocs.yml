@@ -5,7 +5,8 @@ theme:
   palette:
     primary: 'light green'
     accent: 'blue'
-  
+  features:
+    - navigation.expand
   markdown_extensions:
     - attr_list
     - md_in_html 

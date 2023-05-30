@@ -11,8 +11,10 @@ Jesteśmy dumni, że możemy przedstawić Wam nasze nowe schronisko dla zwierzą
 
 W naszym schronisku przyjmujemy różnorodne zwierzęta: 
 
-* psy, 
-* koty, 
+* [psy][psy], 
+[psy]: https://www.psy.pl/
+* [koty][koty], 
+[koty]: https://www.koty.pl/ 
 * króliki, 
 * chomiki, 
 * ptaki 
